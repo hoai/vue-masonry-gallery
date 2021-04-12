@@ -1,7 +1,7 @@
 {
   "name": "vue-masonry-gallery-new",
-  "version": "1.1.1",
-  "description": "Masonry gallery layout component for Vue.js",
+  "version": "1.1.2",
+  "description": "Masonry gallery layout component for Nuxtjs",
   "author": "Vajracode <support@vajracode.com>",
   "main": "./vendor/VueMasonryGallery/VueMasonryGallery.js",
   "keywords": [
@@ -18,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/parys-github/vue-masonry-gallery.git"
+    "url": "git+https://github.com/hoai/vue-masonry-gallery"
   },
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
