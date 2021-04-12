@@ -1,4 +1,4 @@
-# vue-masonry-gallery 1.x
+# vue-masonry-gallery 1.x for nuxtjs
 ![alt text](https://vue-masonry-gallery.vajracode.com/static/img/vue-masonry-gallery-screen.jpg "Screenshot")
 1.  The masonry gallery component based on Vue.js that contains beautiful Waterfall Flow layout and fancy thumbnails hovering effect. Component letting you choos opening media at internal/external tabs or display media in modal popup.
 2.  Compared to other implementations, there is no need to specify the width and height of the image in the returned data. A very convenient option for controlled sequential loading of items or displaying random items.
@@ -26,7 +26,7 @@ npm run build --report
 ### 1.1 Installation
 
 ```
-npm install vue-masonry-gallery --save
+npm install  vue-masonry-gallery-new@1.1.1 --save
 ```
 
 ### 1.2 es6 import
